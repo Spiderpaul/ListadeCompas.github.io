@@ -1,0 +1,29 @@
+{
+  "perfil": [
+    {
+      "nombre": "Harland Lohora",
+      "email": "harland@alura.com",
+      "id": 1
+    },
+    {
+      "nombre": "Juan Camanei",
+      "email": "juan@gmail.com",
+      "id": "1c4f0a9d-3c11-42d3-9c4e-69630e109555"
+    },
+    {
+      "nombre": "Pedro Pascal",
+      "email": "pedro@gmail.com",
+      "id": "fa082b8e-5509-4edf-a256-92c34dbe56ff"
+    },
+    {
+      "nombre": "Maria la del Barrio",
+      "email": "maria@gmail.com",
+      "id": "76ce076a-863b-4554-96e4-5930966f2172"
+    },
+    {
+      "nombre": "Luis Garcia",
+      "email": "luis@gmail.com",
+      "id": "fec0c791-0b0c-45e5-88e5-9c5d127383f1"
+    }
+  ]
+}
